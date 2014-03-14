@@ -1,0 +1,23 @@
+---
+title:
+- type: main
+  text: Learn You a Scala
+- type: subtitle
+  text: For Great Justice!
+- language: en-US
+creator:
+- role: author
+  text: Charles Feduke
+rights: Creative Commons Non-Commercial Share Alike 3.0
+references:
+- id: lipovaca11
+  title: Learn You a Haskell for Great Good!
+  author:
+  - family: Lipovača
+    given: Miran
+  publisher: No Starch Press
+  type: book
+  issued:
+    year: 2011
+    month: 4
+...
